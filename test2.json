@@ -1,1 +1,20 @@
-{}
+{
+  "version": "1.0",
+  "buttons": [
+    {
+      "url": "https://www.adlermode.com/de/de/kundenkarte?mc=intern.home.kundenkarte#anchor-customer-card-registration-form",
+      "name": "Kundenkarte beantragen",
+      "icon": "icon_profile.png"
+    },
+    {
+      "url": "https://www.adlermode.com/de/de/home",
+      "name": "Online Shop",
+      "icon": "icon_shopping.png"
+    },
+    {
+      "url": "https://meine.adlermode.com/lps/filialformulare/tabletnewsletter?filiale=${FILIAL_ID}",
+      "name": "Newsletter",
+      "icon": "icon_info.png"
+    }
+  ]
+}
